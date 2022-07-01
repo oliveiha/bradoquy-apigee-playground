@@ -1,6 +1,6 @@
 #!groovy
 
-@Library('slackNotifications-shared-library@master') _
+@Library('jenkins-slack-shared-library@master') _
 
 pipeline {
     agent any
